@@ -1,0 +1,40 @@
+.red {
+  background-color: crimson;
+  font-family: 'Questrial', sands serif;
+  margin-top: -1cm;
+  padding-top: 0cm;
+  padding-bottom: .0005cm;
+  border-top-left-radius: 1cm;
+  border-top-right-radius: 1cm;
+  border-bottom-left-radius: 1cm;
+  border-bottom-right-radius: 1cm;
+
+
+}
+
+.Hello {
+  color: white;
+  font-family: questrial;
+  font-size: 100px;
+}
+
+.phrase {
+  font-size: xx-large;
+  color: white;
+  margin-top: -3cm;
+}
+
+.white {
+  background-color: white;
+  padding-top: .25cm;
+}
+
+.name {
+  font-size: 100px;
+  margin-bottom: 2cm;
+  margin-top: 1cm;
+
+}
+* {
+  text-align: center;
+}
