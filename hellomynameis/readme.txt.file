@@ -1,0 +1,2 @@
+ID selectors are a bad idea because there are time consuming and can not be reused
+class selectors would be preferred in CSS.
